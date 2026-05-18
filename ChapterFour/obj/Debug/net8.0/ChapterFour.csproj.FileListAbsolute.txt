@@ -1,0 +1,15 @@
+/Users/eskersaeed/dev-bootcamp/ChapterFour/bin/Debug/net8.0/ChapterFour
+/Users/eskersaeed/dev-bootcamp/ChapterFour/bin/Debug/net8.0/ChapterFour.deps.json
+/Users/eskersaeed/dev-bootcamp/ChapterFour/bin/Debug/net8.0/ChapterFour.runtimeconfig.json
+/Users/eskersaeed/dev-bootcamp/ChapterFour/bin/Debug/net8.0/ChapterFour.dll
+/Users/eskersaeed/dev-bootcamp/ChapterFour/bin/Debug/net8.0/ChapterFour.pdb
+/Users/eskersaeed/dev-bootcamp/ChapterFour/obj/Debug/net8.0/ChapterFour.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eskersaeed/dev-bootcamp/ChapterFour/obj/Debug/net8.0/ChapterFour.AssemblyInfoInputs.cache
+/Users/eskersaeed/dev-bootcamp/ChapterFour/obj/Debug/net8.0/ChapterFour.AssemblyInfo.cs
+/Users/eskersaeed/dev-bootcamp/ChapterFour/obj/Debug/net8.0/ChapterFour.csproj.CoreCompileInputs.cache
+/Users/eskersaeed/dev-bootcamp/ChapterFour/obj/Debug/net8.0/ChapterFour.sourcelink.json
+/Users/eskersaeed/dev-bootcamp/ChapterFour/obj/Debug/net8.0/ChapterFour.dll
+/Users/eskersaeed/dev-bootcamp/ChapterFour/obj/Debug/net8.0/refint/ChapterFour.dll
+/Users/eskersaeed/dev-bootcamp/ChapterFour/obj/Debug/net8.0/ChapterFour.pdb
+/Users/eskersaeed/dev-bootcamp/ChapterFour/obj/Debug/net8.0/ChapterFour.genruntimeconfig.cache
+/Users/eskersaeed/dev-bootcamp/ChapterFour/obj/Debug/net8.0/ref/ChapterFour.dll

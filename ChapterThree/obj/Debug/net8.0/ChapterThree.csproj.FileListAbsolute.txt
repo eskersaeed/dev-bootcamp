@@ -1,0 +1,15 @@
+/Users/eskersaeed/dev-bootcamp/ChapterThree/bin/Debug/net8.0/ChapterThree
+/Users/eskersaeed/dev-bootcamp/ChapterThree/bin/Debug/net8.0/ChapterThree.deps.json
+/Users/eskersaeed/dev-bootcamp/ChapterThree/bin/Debug/net8.0/ChapterThree.runtimeconfig.json
+/Users/eskersaeed/dev-bootcamp/ChapterThree/bin/Debug/net8.0/ChapterThree.dll
+/Users/eskersaeed/dev-bootcamp/ChapterThree/bin/Debug/net8.0/ChapterThree.pdb
+/Users/eskersaeed/dev-bootcamp/ChapterThree/obj/Debug/net8.0/ChapterThree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eskersaeed/dev-bootcamp/ChapterThree/obj/Debug/net8.0/ChapterThree.AssemblyInfoInputs.cache
+/Users/eskersaeed/dev-bootcamp/ChapterThree/obj/Debug/net8.0/ChapterThree.AssemblyInfo.cs
+/Users/eskersaeed/dev-bootcamp/ChapterThree/obj/Debug/net8.0/ChapterThree.csproj.CoreCompileInputs.cache
+/Users/eskersaeed/dev-bootcamp/ChapterThree/obj/Debug/net8.0/ChapterThree.sourcelink.json
+/Users/eskersaeed/dev-bootcamp/ChapterThree/obj/Debug/net8.0/ChapterThree.dll
+/Users/eskersaeed/dev-bootcamp/ChapterThree/obj/Debug/net8.0/refint/ChapterThree.dll
+/Users/eskersaeed/dev-bootcamp/ChapterThree/obj/Debug/net8.0/ChapterThree.pdb
+/Users/eskersaeed/dev-bootcamp/ChapterThree/obj/Debug/net8.0/ChapterThree.genruntimeconfig.cache
+/Users/eskersaeed/dev-bootcamp/ChapterThree/obj/Debug/net8.0/ref/ChapterThree.dll

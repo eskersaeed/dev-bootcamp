@@ -1,0 +1,15 @@
+/Users/eskersaeed/dev-bootcamp/ChapterTwo/bin/Debug/net8.0/ChapterTwo
+/Users/eskersaeed/dev-bootcamp/ChapterTwo/bin/Debug/net8.0/ChapterTwo.deps.json
+/Users/eskersaeed/dev-bootcamp/ChapterTwo/bin/Debug/net8.0/ChapterTwo.runtimeconfig.json
+/Users/eskersaeed/dev-bootcamp/ChapterTwo/bin/Debug/net8.0/ChapterTwo.dll
+/Users/eskersaeed/dev-bootcamp/ChapterTwo/bin/Debug/net8.0/ChapterTwo.pdb
+/Users/eskersaeed/dev-bootcamp/ChapterTwo/obj/Debug/net8.0/ChapterTwo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eskersaeed/dev-bootcamp/ChapterTwo/obj/Debug/net8.0/ChapterTwo.AssemblyInfoInputs.cache
+/Users/eskersaeed/dev-bootcamp/ChapterTwo/obj/Debug/net8.0/ChapterTwo.AssemblyInfo.cs
+/Users/eskersaeed/dev-bootcamp/ChapterTwo/obj/Debug/net8.0/ChapterTwo.csproj.CoreCompileInputs.cache
+/Users/eskersaeed/dev-bootcamp/ChapterTwo/obj/Debug/net8.0/ChapterTwo.sourcelink.json
+/Users/eskersaeed/dev-bootcamp/ChapterTwo/obj/Debug/net8.0/ChapterTwo.dll
+/Users/eskersaeed/dev-bootcamp/ChapterTwo/obj/Debug/net8.0/refint/ChapterTwo.dll
+/Users/eskersaeed/dev-bootcamp/ChapterTwo/obj/Debug/net8.0/ChapterTwo.pdb
+/Users/eskersaeed/dev-bootcamp/ChapterTwo/obj/Debug/net8.0/ChapterTwo.genruntimeconfig.cache
+/Users/eskersaeed/dev-bootcamp/ChapterTwo/obj/Debug/net8.0/ref/ChapterTwo.dll
